@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Younes, a passionate Data Engineer with a master's degree in Big Data and Artificial Intelligence. I specialize in building robust data pipelines and managing distributed data systems. I'm eager to leverage my skills in big data technologies to drive insights and create impactful solutions. Let's connect and collaborate!
+Hi ! I'm Younes, a passionate Data Engineer with a master's degree in Big Data and Artificial Intelligence. I specialize in building robust data pipelines and managing distributed data systems. I'm eager to leverage my skills in big data technologies to drive insights and create impactful solutions. Let's connect and collaborate!
 
 
 ## 🌐 Socials:
