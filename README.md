@@ -19,7 +19,7 @@
     <img src="https://training.cellenza.com/wp-content/uploads/2021/07/DP-200.png" height="80" alt="Microsoft Azure DP-203 Certification" title="Microsoft Azure DP-203" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hashicorp.com/certification/terraform-associate" target="_blank">
+  <a href="https://www.credly.com/badges/cbb25194-f866-4b0e-842a-abad9151b797/linked_in_profile" target="_blank">
     <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" height="80" alt="Terraform Certification" title="Terraform Associate" />
   </a>
   &nbsp;&nbsp;&nbsp;
