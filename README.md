@@ -1,9 +1,9 @@
 <h2 align="left">💫 About Me:</h2>
 
 <p align="left">
-  Hi! I'm Younes, a passionate Data Engineer with a Master's degree in Big Data and Artificial Intelligence.
-  I specialize in building robust data pipelines and managing distributed data systems.
-  I'm eager to leverage my skills in big data technologies to drive insights and create impactful solutions.
+  Hi! I'm Younes, a passionate Data Engineer with a Master's degree in Big Data and Artificial Intelligence. <br>
+  I specialize in building robust data pipelines and managing distributed data systems. <br>
+  I'm eager to leverage my skills in big data technologies to drive insights and create impactful solutions. <br>
   Let's connect and collaborate!
 </p>
 
@@ -72,6 +72,24 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="PySpark" title="PySpark" />
     </td>
   </tr>
+  <!-- Added New Icons -->
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="40" alt="Hadoop" title="Hadoop" />
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML" />
+    </td>
+    <td align="center">
+      <img src="https://miro.medium.com/v2/resize:fit:600/1*aQgo0Ne43diOfc-QL9XJ3w.png" height="40" alt="Data Build Tool" title="Data Build Tool (DBT)" />
+    </td>
+    <td align="center">
+      <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" height="40" alt="Power BI" title="Power BI" />
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Apache_HBase_Logo.svg" height="40" alt="Apache HBase" title="Apache HBase" />
+    </td>
+  </tr>
 </table>
 
 <br clear="both" />
@@ -82,20 +100,25 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bousettayounes" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="59" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="LinkedIn" />
   </a>
-  <a href="bousettayounes98@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="59" height="35" alt="gmail logo"  />
+  <a href="mailto:bousettayounes98@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="Gmail" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="59" height="35" alt="microsoft-outlook logo"  />
+  <a href="mailto:bousettayounes98@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="50" height="35" alt="Outlook" />
+  </a>
 </div>
-
 
 ---
 
 <br clear="both" />
 
-<h3 align="left">📈 GitHub Stats:</h3>
+<h3 align="left">📢 Contributions:</h3>
+
+<p align="left">
+Here’s a glimpse into my GitHub contributions and activity:
+</p>
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=bousettayounes&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="GitHub Streak" />
@@ -106,6 +129,8 @@
 ---
 
 <br clear="both" />
+
+<h3 align="left">Contribution Graph:</h3>
 
 <img src="https://raw.githubusercontent.com/bousettayounes/bousettayounes/output/snake.svg" alt="Snake animation" />
 
