@@ -12,34 +12,43 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
-  <img width="24" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=azure" height="35" alt="azure logo"  />
-  <img width="24" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo"  />
-  <img width="24" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=postgres" height="35" alt="postgresql logo"  />
-  <img width="24" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
-  <img width="24" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=docker" height="35" alt="docker logo"  />
-  <img width="24" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
-  <img width="24" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
-  <img width="24" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=kafka" height="35" alt="apachekafka logo"  />
-  <img width="24" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
-  <img width="24" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
-  <img width="24" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
-  <img width="24" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="35" alt="terraform logo"  />
-  <img width="24" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="35" alt="apache logo"  />
-  <img width="24" />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35" alt="anaconda logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="35" alt="spark logo" title="Apache Spark" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="35" alt="airflow logo" title="Apache Airflow" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" height="35" alt="cassandra logo" title="Apache Cassandra" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="35" alt="pyspark logo" title="PySpark" />
+
 </div>
 
 ###
@@ -49,8 +58,12 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="59" height="35" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="59" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/bousettayounes/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="59" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="bousettayounes98@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="59" height="35" alt="gmail logo"  />
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="59" height="35" alt="microsoft-outlook logo"  />
 </div>
 
