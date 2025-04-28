@@ -1,10 +1,13 @@
 <h2 align="left">💫 About Me:</h2>
 
 <p align="left">
-  Hi! I'm Younes, a passionate Data Engineer with a Master's degree in Big Data and Artificial Intelligence. <br>
-  I specialize in building robust data pipelines and managing distributed data systems. <br>
-  I'm eager to leverage my skills in big data technologies to drive insights and create impactful solutions. <br>
-  Let's connect and collaborate!
+  Hi! I'm Younes, a Data Engineering professional with a Master's degree in Big Data and Artificial Intelligence.
+
+  I design and implement scalable data piplines that transform raw information into actionable business intelligence. My expertise spans designing fault-tolerant ETL pipelines, optimizing distributed computing frameworks, and implementing cloud-native data solutions that drive organizational decision-making.
+
+  With a strong foundation in both theoretical concepts and practical implementation, I excel at bridging the gap between complex technical systems and business requirements. My solutions have helped organizations unlock the full     potential of their data assets.
+
+  Let's connect to discuss how my technical expertise can help solve your data challenges and accelerate your analytics initiatives!
 </p>
 
 ---
@@ -130,7 +133,7 @@ Here’s a glimpse into my GitHub contributions and activity:
 
 <br clear="both" />
 
-<h3 align="left">Contribution Graph:</h3>
+<h3 align="left">🐍 Contribution Graph:</h3>
 
 <img src="https://raw.githubusercontent.com/bousettayounes/bousettayounes/output/snake.svg" alt="Snake animation" />
 
