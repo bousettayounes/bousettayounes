@@ -98,7 +98,6 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="PySpark" title="PySpark" />
     </td>
   </tr>
-  <!-- Added New Icons -->
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="40" alt="Hadoop" title="Hadoop" />
