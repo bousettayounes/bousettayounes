@@ -80,19 +80,16 @@
 
 <h3 align="left">🌐 Socials:</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/bousettayounes/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="LinkedIn" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/bousettayounes" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="59" height="35" alt="linkedin logo"  />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:bousettayounes98@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="Gmail" />
+  <a href="bousettayounes98@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="59" height="35" alt="gmail logo"  />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:bousettayounes98@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="45" height="30" alt="Outlook" />
-  </a>
-</p>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="59" height="35" alt="microsoft-outlook logo"  />
+</div>
+
 
 ---
 
