@@ -3,12 +3,35 @@
 <p align="left">
   Hi! I'm Younes, a Data Engineering professional with a Master's degree in Big Data and Artificial Intelligence.
 
-  I design and implement scalable data piplines that transform raw information into actionable business intelligence. My expertise spans designing fault-tolerant ETL pipelines, optimizing distributed computing frameworks, and implementing cloud-native data solutions that drive organizational decision-making.
+  I design and implement scalable data pipelines that transform raw information into actionable business intelligence. My expertise spans designing fault-tolerant ETL pipelines, optimizing distributed computing frameworks, and implementing cloud-native data solutions that drive organizational decision-making.
 
-  With a strong foundation in both theoretical concepts and practical implementation, I excel at bridging the gap between complex technical systems and business requirements. My solutions have helped organizations unlock the full     potential of their data assets.
+  With a strong foundation in both theoretical concepts and practical implementation, I excel at bridging the gap between complex technical systems and business requirements. My solutions have helped organizations unlock the full potential of their data assets.
 
   Let's connect to discuss how my technical expertise can help solve your data challenges and accelerate your analytics initiatives!
 </p>
+
+---
+
+<h3 align="left">🎓 Certifications:</h3>
+
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/certifications/exams/dp-203/" target="_blank">
+    <img src="https://training.cellenza.com/wp-content/uploads/2021/07/DP-200.png" height="80" alt="Microsoft Azure DP-203 Certification" title="Microsoft Azure DP-203" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hashicorp.com/certification/terraform-associate" target="_blank">
+    <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" height="80" alt="Terraform Certification" title="Terraform Associate" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.datacamp.com/statement-of-accomplishment/course/b25512f51c833faec85a34cea5e586c43f9d10ed?raw=1" target="_blank">
+    <img src="https://play-lh.googleusercontent.com/2menhwShF67fUQBiKbqgXs49QT1M750gTGSnwr_CblafB1pfs5NNDOJZIry_q7Fj8Rw" height="80" alt="DataCamp Certification" title="DataCamp Course Completion" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://learn.365datascience.com/certificates/CC-F2D857E8AA/" target="_blank">
+    <img src="https://media.softwaregiveaway.co.uk/wp-content/uploads/2024/11/giveaway-365-data-science.png" height="80" alt="365 Data Science Certification" title="365 Data Science Course Completion" />
+  </a>
+</p>
+
 
 ---
 
