@@ -147,21 +147,21 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bousettayounes/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
   </a>
   <a href="bousettayounes98@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://drive.google.com/file/d/1xCGfcvH1Kzgl2vCQGVeL5X4e2MhqUhRa/view?usp=sharing" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/8101/8101319.png" width="70" height="40" alt="instagram logo"  />
   </a>
 </div>
 
----
 
-<br clear="both" />
+---
 
 <h3 align="left">📢 Contributions:</h3>
 
-<p align="left">
-Here’s a glimpse into my GitHub contributions and activity:
 </p>
 
 <p align="left">
@@ -171,8 +171,6 @@ Here’s a glimpse into my GitHub contributions and activity:
 </p>
 
 ---
-
-<br clear="both" />
 
 <h3 align="left">🐍 Contribution Graph:</h3>
 
