@@ -143,7 +143,7 @@
 
 ---
 
-<h3 align="left">🌐 Socials:</h3>
+<h3 align="left">🌐 Socials & Resume:</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bousettayounes/" target="_blank">
