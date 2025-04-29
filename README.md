@@ -113,6 +113,9 @@
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Apache_HBase_Logo.svg" height="40" alt="Apache HBase" title="Apache HBase" />
     </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/2560px-Snowflake_Logo.svg.png" height="40" alt="Snowflake" title="Snowflake" />
+    </td>
   </tr>
 </table>
 
