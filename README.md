@@ -167,8 +167,6 @@
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=bousettayounes&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="GitHub Streak" />
-  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bousettayounes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </p>
 
