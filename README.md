@@ -127,19 +127,19 @@
 
 <p align="left">
   <a href="https://github.com/bousettayounes/Snowflake_Datawarehouse_Project" target="_blank" style="border-radius: 10px; overflow: hidden; display: inline-block;">
-    <img src="https://media.licdn.com/dms/image/sync/v2/D5627AQGgfPud0mU2wQ/articleshare-shrink_800/B56ZZ54Xj2GoAI-/0/1745801542708?e=1746489600&v=beta&t=jmLt-3nDDbntAxaKrXrAEiByddtfNi7gUKF-dE4Na5s" alt="Project 4" width="200" height="100" style="border-radius: 10px;"/>
+    <img src="https://media.licdn.com/dms/image/sync/v2/D5627AQGgfPud0mU2wQ/articleshare-shrink_800/B56ZZ54Xj2GoAI-/0/1745801542708?e=1747234800&v=beta&t=thBmcr9HWnhHbXecremhGbe9oNcFbh58yyhNiAuSTYE" alt="Project 4" width="200" height="100" style="border-radius: 10px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/bousettayounes/High-Throughput-Streaming-Pipeline-3K-Records-per-Second" target="_blank" style="border-radius: 10px; overflow: hidden; display: inline-block;">
-    <img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQEYUfPR2in8YA/articleshare-shrink_800/articleshare-shrink_800/0/1736100166544?e=1746489600&v=beta&t=jYwVgGii8y3LLP16RdugidYiQhEqghvq6Pi4q1-unXk" alt="Project 3" width="200" height="100" style="border-radius: 10px;"/>
+    <img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQEYUfPR2in8YA/articleshare-shrink_800/articleshare-shrink_800/0/1736100166544?e=1747234800&v=beta&t=WhCi6igsTLvwX1vXPtvYSvmrl4SP1ml1fttFzjKKgYE" alt="Project 3" width="200" height="100" style="border-radius: 10px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/bousettayounes/Inventory-Management-Data-Warehouse" target="_blank" style="border-radius: 10px; overflow: hidden; display: inline-block;">
-    <img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQG41pQRtneaIQ/articleshare-shrink_800/articleshare-shrink_800/0/1727270216084?e=1746489600&v=beta&t=v4B53CQrtN1QP8CcWQKd0Cv4EgRv-340H3I1nIlL4mA" alt="Project 2" width="200" height="100" style="border-radius: 10px;"/>
+    <img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQG41pQRtneaIQ/articleshare-shrink_800/articleshare-shrink_800/0/1727270216084?e=1747234800&v=beta&t=HTxJNkySHc2TpqzzrqLSsnwyHkroeLHm2s9BF2rGngI" alt="Project 2" width="200" height="100" style="border-radius: 10px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/bousettayounes/Real-Time-Processing-of-Users-Data" target="_blank" style="border-radius: 10px; overflow: hidden; display: inline-block;">
-    <img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQGMNVYUJahqxg/articleshare-shrink_800/articleshare-shrink_800/0/1734606962593?e=1746489600&v=beta&t=cf14A9B9qRcXnhLBTMKP-ayHTYdtdifLqghAPGKZoDQ" alt="Project 1" width="200" height="100" style="border-radius: 10px;"/>
+    <img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQGMNVYUJahqxg/articleshare-shrink_800/articleshare-shrink_800/0/1746184489471?e=1747234800&v=beta&t=N1szPt9ELITcnKVCR7EQVH6YEkIujcgGObGf2cpr3kg" alt="Project 1" width="200" height="100" style="border-radius: 10px;"/>
   </a>
 </p>
 
