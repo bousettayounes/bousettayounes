@@ -127,19 +127,19 @@
 
 <p align="left">
   <a href="https://github.com/bousettayounes/Snowflake_Datawarehouse_Project" target="_blank" style="border-radius: 10px; overflow: hidden; display: inline-block;">
-    <img src="https://drive.google.com/file/d/1KnMijcGQCbPNBXDsj03GvMd67R4U6bIo/view?usp=drive_link" alt="Project 4" width="200" height="100" style="border-radius: 10px;"/>
+    <img src="https://github.com/bousettayounes/Snowflake_Datawarehouse_Project/blob/main/Snowflake%20Data%20Warehouse%20Project.jpg?raw=true" alt="Project 4" width="200" height="100" style="border-radius: 10px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/bousettayounes/High-Throughput-Streaming-Pipeline-3K-Records-per-Second" target="_blank" style="border-radius: 10px; overflow: hidden; display: inline-block;">
-    <img src="https://drive.google.com/file/d/1j2j2Iecxh5sEQwZQsxgv-t3dOro4xq8o/view?usp=drive_link" alt="Project 3" width="200" height="100" style="border-radius: 10px;"/>
+    <img src="https://github.com/bousettayounes/High-Throughput-Streaming-Pipeline-3K-Records-per-Second/blob/main/High-Throughput%20Streaming%20Pipeline.jpg?raw=true" alt="Project 3" width="200" height="100" style="border-radius: 10px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/bousettayounes/Inventory-Management-Data-Warehouse" target="_blank" style="border-radius: 10px; overflow: hidden; display: inline-block;">
-    <img src="https://drive.google.com/file/d/1uBGQgGkl44lOPOLhT04OaRab_OzuA5cR/view?usp=drive_link" alt="Project 2" width="200" height="100" style="border-radius: 10px;"/>
+    <img src="https://github.com/bousettayounes/Inventory-Management-Data-Warehouse/blob/main/Design%20and%20Implementation%20of%20an%20Inventory%20Management%20Data%20Warehouse.jpg?raw=true" alt="Project 2" width="200" height="100" style="border-radius: 10px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/bousettayounes/Real-Time-Processing-of-Users-Data" target="_blank" style="border-radius: 10px; overflow: hidden; display: inline-block;">
-    <img src="https://drive.google.com/file/d/1Lvh3V0Zga7wbpBOBurSCAXgcAIAjGViv/view?usp=drive_link" alt="Project 1" width="200" height="100" style="border-radius: 10px;"/>
+    <img src="https://github.com/bousettayounes/Real-Time-Processing-of-Users-Data/blob/main/Real_time_Processing.jpg?raw=true" alt="Project 1" width="200" height="100" style="border-radius: 10px;"/>
   </a>
 </p>
 
