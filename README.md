@@ -111,16 +111,16 @@
       <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" title="HTML" />
     </td>
     <td align="center">
-      <img src="logo's/1bs4QsEzWBpQMfwP2cNfrWw.png" width="50" height="50" alt="Data Build Tool" title="Data Build Tool (DBT)" />
+      <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-icon-sefw4nnptjlk5lk13atgvm.png/dbt-icon-2yxlz1fvy25mvn5scgnlw.png?_a=DATAdtAAZAA0" width="50" height="50" alt="Data Build Tool" title="Data Build Tool (DBT)" />
     </td>
     <td align="center">
       <img src="logo's/Microsoft-Power-BI-Logo-2013.png" width="50" height="50" alt="Power BI" title="Power BI" />
     </td>
     <td align="center">
-      <img src="logo's/Apache_HBase-Logo.wine.png" width="50" height="50" alt="Apache HBase" title="Apache HBase" />
+      <img src="https://cdn.worldvectorlogo.com/logos/hbase.svg" width="50" height="50" alt="Apache HBase" title="Apache HBase" />
     </td>
     <td align="center">
-      <img src="logo's/Snowflake_Inc.-Logo.wine.png" width="50" height="50" alt="Snowflake" title="Snowflake" />
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/snowflake-color.png" width="50" height="50" alt="Snowflake" title="Snowflake" />
     </td>
   </tr>
 </table>
