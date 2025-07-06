@@ -40,7 +40,7 @@
       <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python" />
     </td>
     <td align="center">
-      <img src="logo's/azure-data-engineer-associate-60.png" height="40" alt="Azure" title="Microsoft Azure" />
+      <img src="logo's/1200px-Microsoft_Azure.svg.png" height="40" alt="Azure" title="Microsoft Azure" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="Amazon Web Services" />
