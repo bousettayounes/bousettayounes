@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="logo's/image.png" height="40" alt="Terraform" title="Terraform" />
+      <img src="https://cdn.prod.website-files.com/6340ceb04078362242dd4eb9/636131fe1f44d41e7af2eb78_terraform-logo.png" height="40" alt="Terraform" title="Terraform" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" title="Anaconda" />
