@@ -11,6 +11,7 @@
 </p>
 
 ---
+<h3 align="left">📜 Professional Certificates:</h3>
 
 <table align="left">
   <tr>
