@@ -130,7 +130,7 @@
 
 ---
 
-<h3 align="left">🚀 My Projects:</h3>
+<h3 align="left">🗂️ My Projects:</h3>
 
 <p align="left">
   <a href="https://github.com/bousettayounes/Snowflake_Datawarehouse_Project" target="_blank" style="border-radius: 10px; overflow: hidden; display: inline-block;">
