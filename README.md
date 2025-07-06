@@ -12,23 +12,31 @@
 
 ---
 
-<p align="left">
-  <a href="https://learn.microsoft.com/en-us/users/younesbousetta-0663/credentials/8f8eb28ae65b0a31?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank" rel="noopener noreferrer">
-    <img src="https://training.cellenza.com/wp-content/uploads/2021/07/DP-200.png" height="40" alt="Microsoft Azure DP-203 Certification" title="Microsoft Azure DP-203" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/cbb25194-f866-4b0e-842a-abad9151b797/linked_in_profile" target="_blank" rel="noopener noreferrer">
-    <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" height="40" alt="Terraform Certification" title="Terraform Associate" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.datacamp.com/statement-of-accomplishment/course/b25512f51c833faec85a34cea5e586c43f9d10ed?raw=1" target="_blank" rel="noopener noreferrer">
-    <img src="logo's/68747470733a2f2f706c61792d6c682e.png" height="40" alt="DataCamp Certification" title="DataCamp Course Completion" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://learn.365datascience.com/certificates/CC-F2D857E8AA/" target="_blank" rel="noopener noreferrer">
-    <img src="logo's/Untitled.png" height="40" alt="365 Data Science Certification" title="365 Data Science Course Completion" />
-  </a>
-</p>
+<table align="left">
+  <tr>
+    <td align="center">
+      <a href="https://learn.microsoft.com/en-us/users/younesbousetta-0663/credentials/8f8eb28ae65b0a31?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank" rel="noopener noreferrer">
+        <img src="https://images.credly.com/images/61542181-0e8d-496c-a17c-3d4bf590eda1/image.png" width="120" height="120" alt="Microsoft Azure DP-203 Certification" title="Microsoft Azure DP-203" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/cbb25194-f866-4b0e-842a-abad9151b797/linked_in_profile" target="_blank" rel="noopener noreferrer">
+        <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="120" height="120" alt="Terraform Certification" title="Terraform Associate" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.datacamp.com/statement-of-accomplishment/course/b25512f51c833faec85a34cea5e586c43f9d10ed?raw=1" target="_blank" rel="noopener noreferrer">
+        <img src="https://images.credly.com/images/2634d7d5-b8f2-4c8c-a70e-2b0a8e0b1e52/image.png" width="120" height="120" alt="DataCamp Certification" title="DataCamp Course Completion" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://learn.365datascience.com/certificates/CC-F2D857E8AA/" target="_blank" rel="noopener noreferrer">
+        <img src="https://images.credly.com/images/4e3d6f9f-55d3-4019-b7dd-5c37b1b3f6c3/image.png" width="120" height="120" alt="365 Data Science Certification" title="365 Data Science Course Completion" />
+      </a>
+    </td>
+  </tr>
+</table>
+<br clear="both" />
 
 ---
 
