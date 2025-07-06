@@ -45,82 +45,82 @@
 <table align="left">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python" />
+      <img src="https://skillicons.dev/icons?i=py" width="50" height="50" alt="Python" title="Python" />
     </td>
     <td align="center">
-      <img src="logo's/1200px-Microsoft_Azure.svg.png" height="40" alt="Azure" title="Microsoft Azure" />
+      <img src="https://skillicons.dev/icons?i=azure" width="50" height="50" alt="Azure" title="Microsoft Azure" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="Amazon Web Services" />
+      <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS" title="Amazon Web Services" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" title="PostgreSQL" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL" />
+      <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" title="MySQL" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Kafka" title="Apache Kafka" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" title="Visual Studio Code" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" title="Bash" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux" />
+      <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" title="Docker" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.prod.website-files.com/6340ceb04078362242dd4eb9/636131fe1f44d41e7af2eb78_terraform-logo.png" height="40" alt="Terraform" title="Terraform" />
+      <img src="https://skillicons.dev/icons?i=kafka" width="50" height="50" alt="Kafka" title="Apache Kafka" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" title="Anaconda" />
+      <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" title="Git" />
     </td>
     <td align="center">
-      <img src="logo's/cq5dam.web.1280.1280.png" height="40" alt="Apache Spark" title="Apache Spark" />
+      <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" title="GitHub" />
     </td>
     <td align="center">
-      <img src="logo's/airflow-logo-png_seeklogo-339932.png" height="40" alt="Apache Airflow" title="Apache Airflow" />
+      <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VSCode" title="Visual Studio Code" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" height="40" alt="Apache Cassandra" title="Apache Cassandra" />
+      <img src="https://skillicons.dev/icons?i=bash" width="50" height="50" alt="Bash" title="Bash" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="PySpark" title="PySpark" />
+      <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" title="Linux" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="40" alt="Hadoop" title="Hadoop" />
+      <img src="https://skillicons.dev/icons?i=terraform" width="50" height="50" alt="Terraform" title="Terraform" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML" />
+      <img src="https://skillicons.dev/icons?i=anaconda" width="50" height="50" alt="Anaconda" title="Anaconda" />
     </td>
     <td align="center">
-      <img src="https://miro.medium.com/v2/resize:fit:600/1*aQgo0Ne43diOfc-QL9XJ3w.png" height="40" alt="Data Build Tool" title="Data Build Tool (DBT)" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="50" height="50" alt="Apache Spark" title="Apache Spark" />
     </td>
     <td align="center">
-      <img src="logo's/Microsoft-Power-BI-Logo-2013.png" height="40" alt="Power BI" title="Power BI" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="50" height="50" alt="Apache Airflow" title="Apache Airflow" />
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Apache_HBase_Logo.svg" height="40" alt="Apache HBase" title="Apache HBase" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg" width="50" height="50" alt="Apache Cassandra" title="Apache Cassandra" />
     </td>
     <td align="center">
-      <img src="logo's/Snowflake_Inc.-Logo.wine.png" height="40" alt="Snowflake" title="Snowflake" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="50" height="50" alt="PySpark" title="PySpark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" width="50" height="50" alt="Hadoop" title="Hadoop" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" title="HTML" />
+    </td>
+    <td align="center">
+      <img src="logo's/1bs4QsEzWBpQMfwP2cNfrWw.png" width="50" height="50" alt="Data Build Tool" title="Data Build Tool (DBT)" />
+    </td>
+    <td align="center">
+      <img src="logo's/Microsoft-Power-BI-Logo-2013.png" width="50" height="50" alt="Power BI" title="Power BI" />
+    </td>
+    <td align="center">
+      <img src="logo's/Apache_HBase-Logo.wine.png" width="50" height="50" alt="Apache HBase" title="Apache HBase" />
+    </td>
+    <td align="center">
+      <img src="logo's/Snowflake_Inc.-Logo.wine.png" width="50" height="50" alt="Snowflake" title="Snowflake" />
     </td>
   </tr>
 </table>
