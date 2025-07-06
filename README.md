@@ -24,11 +24,11 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.datacamp.com/statement-of-accomplishment/course/b25512f51c833faec85a34cea5e586c43f9d10ed?raw=1" target="_blank">
-    <img src="https://play-lh.googleusercontent.com/2menhwShF67fUQBiKbqgXs49QT1M750gTGSnwr_CblafB1pfs5NNDOJZIry_q7Fj8Rw" height="80" alt="DataCamp Certification" title="DataCamp Course Completion" />
+    <img src="logo's/68747470733a2f2f706c61792d6c682e.png" height="80" alt="DataCamp Certification" title="DataCamp Course Completion" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://learn.365datascience.com/certificates/CC-F2D857E8AA/" target="_blank">
-    <img src="https://media.softwaregiveaway.co.uk/wp-content/uploads/2024/11/giveaway-365-data-science.png" height="80" alt="365 Data Science Certification" title="365 Data Science Course Completion" />
+    <img src="logo's/Untitled.png" height="80" alt="365 Data Science Certification" title="365 Data Science Course Completion" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@
       <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" title="Microsoft Azure" />
+      <img src="logo's/azure-data-engineer-associate-60.png" height="40" alt="Azure" title="Microsoft Azure" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="Amazon Web Services" />
@@ -79,16 +79,16 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform" title="Terraform" />
+      <img src="logo's/image.png" height="40" alt="Terraform" title="Terraform" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" title="Anaconda" />
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" height="40" alt="Apache Spark" title="Apache Spark" />
+      <img src="logo's/cq5dam.web.1280.1280.png" height="40" alt="Apache Spark" title="Apache Spark" />
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="Apache Airflow" title="Apache Airflow" />
+      <img src="logo's/airflow-logo-png_seeklogo-339932.png" height="40" alt="Apache Airflow" title="Apache Airflow" />
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" height="40" alt="Apache Cassandra" title="Apache Cassandra" />
@@ -108,13 +108,13 @@
       <img src="https://miro.medium.com/v2/resize:fit:600/1*aQgo0Ne43diOfc-QL9XJ3w.png" height="40" alt="Data Build Tool" title="Data Build Tool (DBT)" />
     </td>
     <td align="center">
-      <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" height="40" alt="Power BI" title="Power BI" />
+      <img src="logo's/Microsoft-Power-BI-Logo-2013.png" height="40" alt="Power BI" title="Power BI" />
     </td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Apache_HBase_Logo.svg" height="40" alt="Apache HBase" title="Apache HBase" />
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/2560px-Snowflake_Logo.svg.png" height="40" alt="Snowflake" title="Snowflake" />
+      <img src="logo's/Snowflake_Inc.-Logo.wine.png" height="40" alt="Snowflake" title="Snowflake" />
     </td>
   </tr>
 </table>
