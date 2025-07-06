@@ -12,23 +12,21 @@
 
 ---
 
-<h3 align="left">🎓 Certifications:</h3>
-
 <p align="left">
-  <a href="https://learn.microsoft.com/en-us/users/younesbousetta-0663/credentials/8f8eb28ae65b0a31?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
-    <img src="https://training.cellenza.com/wp-content/uploads/2021/07/DP-200.png" height="80" alt="Microsoft Azure DP-203 Certification" title="Microsoft Azure DP-203" />
+  <a href="https://learn.microsoft.com/en-us/users/younesbousetta-0663/credentials/8f8eb28ae65b0a31?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank" rel="noopener noreferrer">
+    <img src="https://training.cellenza.com/wp-content/uploads/2021/07/DP-200.png" height="40" alt="Microsoft Azure DP-203 Certification" title="Microsoft Azure DP-203" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/cbb25194-f866-4b0e-842a-abad9151b797/linked_in_profile" target="_blank">
-    <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" height="80" alt="Terraform Certification" title="Terraform Associate" />
+  <a href="https://www.credly.com/badges/cbb25194-f866-4b0e-842a-abad9151b797/linked_in_profile" target="_blank" rel="noopener noreferrer">
+    <img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" height="40" alt="Terraform Certification" title="Terraform Associate" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.datacamp.com/statement-of-accomplishment/course/b25512f51c833faec85a34cea5e586c43f9d10ed?raw=1" target="_blank">
-    <img src="logo's/68747470733a2f2f706c61792d6c682e.png" height="80" alt="DataCamp Certification" title="DataCamp Course Completion" />
+  <a href="https://www.datacamp.com/statement-of-accomplishment/course/b25512f51c833faec85a34cea5e586c43f9d10ed?raw=1" target="_blank" rel="noopener noreferrer">
+    <img src="logo's/68747470733a2f2f706c61792d6c682e.png" height="40" alt="DataCamp Certification" title="DataCamp Course Completion" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://learn.365datascience.com/certificates/CC-F2D857E8AA/" target="_blank">
-    <img src="logo's/Untitled.png" height="80" alt="365 Data Science Certification" title="365 Data Science Course Completion" />
+  <a href="https://learn.365datascience.com/certificates/CC-F2D857E8AA/" target="_blank" rel="noopener noreferrer">
+    <img src="logo's/Untitled.png" height="40" alt="365 Data Science Certification" title="365 Data Science Course Completion" />
   </a>
 </p>
 
