@@ -7,7 +7,7 @@
 
   With a strong foundation in both theoretical concepts and practical implementation, I excel at bridging the gap between complex technical systems and business requirements.
 
-  Let's connect to discuss how my technical expertise can help solve your data challenges and accelerate your analytics initiatives!
+  Let's connect to discuss how my technical expertise can help solve your data challenges !
 </p>
 
 ---
