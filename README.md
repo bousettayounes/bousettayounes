@@ -162,7 +162,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
   </a>
   <a href="https://drive.google.com/file/d/1r4rO0G6SNUtJhTXLiyj28OKX_NPblkTq/view?usp=sharing" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/8101/8101319.png" width="70" height="40" alt="Resume"  />
+    <img src="https://pngimg.com/uploads/cv/cv_PNG44.png" width="47" height="65" alt="Resume"  />
   </a>
 </div>
 
