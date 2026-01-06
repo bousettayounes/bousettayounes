@@ -169,16 +169,6 @@
 
 ---
 
-<h3 align="left">📢 Contributions:</h3>
-
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bousettayounes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</p>
-
----
-
 <h3 align="left">🐍 Contribution Graph:</h3>
 
 <img src="https://raw.githubusercontent.com/bousettayounes/bousettayounes/output/snake.svg" alt="Snake animation" />
