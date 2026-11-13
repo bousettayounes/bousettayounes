@@ -6,7 +6,7 @@
 
 I build reliable data pipelines and cloud data solutions that turn raw information into useful business insight.
 
-[![View my CV](https://img.shields.io/badge/CV-View%20my%20resume-2F3A4A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1r4rO0G6SNUtJhTXLiyj28OKX_NPblkTq/view?usp=sharing)
+[![View my CV](https://img.shields.io/badge/CV-View%20my%20resume-2F3A4A?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1wFW_BH5nPXswHoEpin5j02d3Bmsd002H/view?usp=drive_link)
 [![Email me](https://img.shields.io/badge/Gmail-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bousettayounes98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bousettayounes/)
 
